@@ -1,6 +1,6 @@
 /*
 =======================================================
-** Week 2 - Project 1 **
+** Week 1 - Project 2 **
 
 Below are a number of problems for you to solve
 using JS. The JS code can be written below each
