@@ -14,8 +14,6 @@ EXAMPLE:
 console.log("Question 1")
 console.log("hello world")
 
-BASIC TRACK: 1-7
-ADVANCED TRACK: 8-11
 =======================================================
 */
 
@@ -28,6 +26,7 @@ console.log("Question 1");
 
 
 // 2. Declare a new variable called 'name',
+//    store your name within it
 //    and then log it to the console.
 
 
@@ -36,6 +35,7 @@ console.log("Question 1");
 
 // 3. Declare two variables with number values.
 //    Add, subtract, multiply and divide them.
+//    Display the values of each within the console.
 
 
 
@@ -91,12 +91,26 @@ console.log("Question 1");
 
 
 
-
-// 11. Prompt a user for their name. Find the length (number of characters) of their name and display the result in the console. 
-
+//11. Prompt users to input the length and width of a rectangle and log the result.
 
 
 
+
+
+// 12. Prompt a user for their name. Find the length (number of characters) of their name and display the result in the console. 
+
+
+
+
+
+
+
+
+// SANDBOX TRACK
+
+// Solving all of these problems is a great step in the right direction, but the next step is coming up 
+// with your own arrangements to solve new problems. Create your own stories to solve and find the solution. 
+// Feel free to share with your classmates to challenge them! 
 
 
 
