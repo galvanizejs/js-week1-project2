@@ -44,7 +44,7 @@ console.log("Question 1");
 // 4. Declare two variables with string values.
 //    Create a third variable that concatenates the two strings
 //    that also places a space between the strings.
-
+//    Log the value of the third variable to the console.
 
 
 
@@ -63,15 +63,16 @@ console.log("Question 1");
 
 
 // 7. Create a prompt that asks a user to pick a number.
-//    Then double user's answer.
+//    Then double user's answer and log that into the console.
+
 
 
 
 
 // ADVANCED TRACK
 
-// 8. Ask for a user's name, age and city.
-//    In a single command display/log the sentence:
+// 8. Ask for a user's name, age and city using a prompt.
+//    In a single command, take the user's answers and log the sentence:
 //   "My name is __. I'm __ years old, and I live in __."
 
 
@@ -92,3 +93,15 @@ console.log("Question 1");
 
 
 // 11. Prompt a user for their name. Find the length (number of characters) of their name and display the result in the console. 
+
+
+
+
+
+
+
+
+
+
+
+// Congrats! You are complete!
