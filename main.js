@@ -1,16 +1,19 @@
 /*
 =======================================================
-** Week 1 - Project 1 **
+** Week 2 - Project 1 **
+
 Below are a number of problems for you to solve
 using JS. The JS code can be written below each
 problem and the result can be logged to the console.
 In order to make the results easy to read,
 please use console.log("Question #") to declare the
 problem number being solved followed by console.log(yourAnswer) after each question.
+
 EXAMPLE:
 // 1. Log your 'hello world' to the console.
 console.log("Question 1")
 console.log("hello world")
+
 BASIC TRACK: 1-7
 ADVANCED TRACK: 8-11
 =======================================================
