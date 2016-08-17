@@ -45,7 +45,7 @@ document.getElementById("q1").classList.add("status-good");
 
 // 4. Declare two variables with number values.
 //    Add, subtract, multiply and divide them.
-//    Display the values of each within the console.
+//    Display the values of each within the HTML page.
 //    Then label these values the best you can. 
 
 
@@ -57,7 +57,7 @@ document.getElementById("q1").classList.add("status-good");
 // 5. Declare two variables with string values.
 //    Create a third variable that concatenates the two strings
 //    that also places the appropriate space between the strings.
-//    Log the value of the third variable to the console.
+//    Display the value of the third variable within the HTML page.
 
 
 
