@@ -34,8 +34,9 @@ document.getElementById("q1").classList.add("status-good");
 
 // 3. Declare a new variable called 'name',
 //    store your name within it, and then
-//    add it with the 'message' variable, and then 
-//    display it within the HTML page.
+//    create a 'message' variable with a greeting, 
+//    concat the message and name variables
+//    and then display it within the HTML page.
 
 
 
